@@ -9,6 +9,7 @@ DOOM Eternal Input Overlay Customizer with which you can paint keys/mouse button
 
 ![image](https://github.com/IlyaTsyganov/DOOM-Eternal-Input-Overlay-Customizer/assets/56352896/833aede1-0362-4584-b107-811ac8014bb7)
 
+## Link to DOOM Eternal Input Overlay Customizer: [Download](https://github.com/IlyaTsyganov/DOOM-Eternal-Input-Overlay-Customizer/releases) 
 ## The list of available features:
 1) Painting every part of keyboard(released/pressed key/label)
    
@@ -33,6 +34,6 @@ The config files are inside "config_files" folder.
 
 ![image](https://github.com/IlyaTsyganov/DOOM-Eternal-Input-Overlay-Customizer/assets/56352896/23efb404-cc70-43d4-ab55-db559aff28b1)
 
-# [Download](https://github.com/IlyaTsyganov/DOOM-Eternal-Input-Overlay-Customizer/releases)
+
 
 [GitHub of OBS Input Overlay plug-in](https://github.com/univrsal/input-overlay)
