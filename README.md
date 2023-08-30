@@ -1,4 +1,4 @@
-# DOOM Eternal Input Overlay Customizer
+#DOOM Eternal Input Overlay Customizer
 DOOM Eternal Input Overlay Customizer with which you can paint keys/mouse buttons of my own OBS Input Overlay Layout
 
 ![image](https://github.com/IlyaTsyganov/DOOM-Eternal-Input-Overlay-Customizer/assets/56352896/8558b050-13de-4bcd-afe2-8fd6e619f947)
