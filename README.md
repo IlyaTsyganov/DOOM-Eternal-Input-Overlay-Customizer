@@ -9,7 +9,7 @@ DOOM Eternal Input Overlay Customizer with which you can paint keys/mouse button
 
 ![image](https://github.com/IlyaTsyganov/DOOM-Eternal-Input-Overlay-Customizer/assets/56352896/833aede1-0362-4584-b107-811ac8014bb7)
 
-The list of available features:
+## The list of available features:
 1) Painting every part of keyboard(released/pressed key/label)
    
 2) Painting every part of mouse(mouse buttons/scroll wheel/ mouse body)
