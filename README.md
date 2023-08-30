@@ -33,4 +33,6 @@ The config files are inside "config_files" folder.
 
 ![image](https://github.com/IlyaTsyganov/DOOM-Eternal-Input-Overlay-Customizer/assets/56352896/23efb404-cc70-43d4-ab55-db559aff28b1)
 
-GitHub of OBS Input Overlay plug-in: https://github.com/univrsal/input-overlay
+[Download](https://github.com/IlyaTsyganov/DOOM-Eternal-Input-Overlay-Customizer/releases)
+
+[GitHub of OBS Input Overlay plug-in](https://github.com/univrsal/input-overlay)
