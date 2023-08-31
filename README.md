@@ -18,6 +18,7 @@ DOOM Eternal Input Overlay Customizer with which you can paint keys/mouse button
 3) Select pre-installed styles matching the original UI color profiles from DOOM Eternal(including colorblind versions)
 
 To select desired key/button - just press it. If you don't choose any key/button, then the whole keyboard/mouse will be painted.
+**Warning:** key selection works with English keyboard layout turned on only.
 You can select the them in listbox(multiple choise is avaliable)
 
 ![image](https://github.com/IlyaTsyganov/DOOM-Eternal-Input-Overlay-Customizer/assets/56352896/e245348b-986a-43d1-aa90-9e7fab40b361)
@@ -26,7 +27,7 @@ You can select the mouse body to be painted in listbox.
 
 ![image](https://github.com/IlyaTsyganov/DOOM-Eternal-Input-Overlay-Customizer/assets/56352896/3027afdd-c61d-4101-9f15-a51bf3b0213e)
 
-To save the images, press "Save File" button, after that 2 pictures of keyboard/mouse will be saved.
+To save the images, press "Save Keyboard Image" for keyboard and "Save Mouse Image" for mouse
 
 ![image](https://github.com/IlyaTsyganov/DOOM-Eternal-Input-Overlay-Customizer/assets/56352896/d891e583-948e-4195-ba59-c6f270638b2d)
 
