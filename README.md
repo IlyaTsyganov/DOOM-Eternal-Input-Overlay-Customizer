@@ -19,7 +19,7 @@ DOOM Eternal Input Overlay Customizer with which you can paint keys/mouse button
 
 To select desired key/button - just press it. If you don't choose any key/button, then the whole keyboard/mouse will be painted.
 **Warning:** key selection works with English keyboard layout turned on only.
-You can select the them in listbox(multiple choise is avaliable)
+You can select the parts of keys in listbox(multiple choise is avaliable)
 
 ![image](https://github.com/IlyaTsyganov/DOOM-Eternal-Input-Overlay-Customizer/assets/56352896/e245348b-986a-43d1-aa90-9e7fab40b361)
 
